@@ -1,0 +1,757 @@
+@media (min-width: 1090px) {
+body {
+	background-image: url(background.png);
+	background-size: 100%;}
+/*===============================================HEADER BEGIN==========*/
+.headerdiv {
+	display: block;
+	width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;}
+
+.header {
+	display: inline-block;
+	float: left;
+	background-color: #1f7cba;
+	width:70%;
+	height: 25px;
+	text-align: center;
+	color: #ffffff;
+	font: 80% open sans;
+	font-weight: bold;}
+
+.header1 {
+	float: left;
+	display: inline-block;
+	background-color: #3498db;
+	text-align: center;
+	width:30%;
+	height: 25px;}
+
+.headersrc {
+	color: #ffffff;
+	text-decoration: none;
+	font: 80% open sans;
+	font-weight: bold;
+	margin-left: 5%;}
+
+.headersrc:hover {
+	color: #34495e;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+.headerdiv1 {
+	display: block;
+	background-color: #34495e;
+	width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;}
+
+.headerdiv1 img {
+	position: relative;
+	margin:1%;}
+
+.headersrc1 {
+	color: #919fae;
+	text-decoration: none;
+	font: 90% open sans;
+	font-weight: bold;
+	float: right;
+	margin-top: 2.5%;
+	margin-right: 3%;}
+
+.headersrc1:hover {
+	color: #ffffff;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+/*===========================================HEADER END==============*/
+
+/*===========================================CONTACT BEGIN==============*/
+.contactdiv {
+	display: block;
+	width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(255,255,255,0.8);}
+
+.cntcthdr {
+	width: 99.5%;
+	border: 3px solid #34495e;
+	text-align: center;}
+
+.cntcthdr p {
+	font: 150% open sans;
+	color: #34495e;}
+
+.contactheader {
+	display: block;
+	width: 100%;
+	text-align: center;}
+
+.contactheader p {
+	color: #34495e;
+	font: 130% open sans;}
+
+.contacttext {
+	display: block;
+	width: 100%;}
+
+.contacttextheader1 {
+	font: 120% open sans;
+	color: #34495e;
+	margin-left: 5%;}
+
+.contacttext1 {
+	font: 100% open sans;
+	color: #34495e;
+	margin-left: 5%;}
+
+.contacttext:last-child {
+	padding-bottom: 3%;}
+/*===========================================CONTACT END==============*/
+
+/*===========================================CONTENT1 BEGIN==============*/
+.content1div {
+	display: block;
+	height: 300px;
+	width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: rgba(255,255,255,0.6);}
+
+.content11 {
+	display: inline-block;
+	float: left;
+	width: 40%;
+	height: 300px;
+	background: rgba(255,255,255,0.6);}
+
+.content1head {
+	height: 35px;
+	background-color: #3498db;
+	text-align: center;
+	color:  #ffffff;
+	font: 140% open sans;
+	font-weight: bold;}
+
+.content1img{
+	display: block;
+	width: 100%;
+	height: 530px;}
+
+.content1img img {
+	display: block;
+	width: 100%;
+	height: 50%;}
+
+.content12 {
+	display:inline-block;
+	float: right;
+	width: 60%;
+	height: 300px;
+	background: rgba(255,255,255,0.6);}
+
+.content1head2 {
+	margin-top: 3%;
+	margin-left: 8%;
+	margin-right: 20%;
+	color: black;
+	font: 120% open sans;
+	font-weight: bold;}
+
+.content1text {
+	margin-left: 8%;
+	margin-top: -2%;
+	font: 80% open sans;
+	font-weight: italic;
+	color: #3498db;}
+
+.content1price {
+	margin-top: 9%;
+	margin-left: 8%;
+	color: black;
+	font: 200% open sans;
+	font-weight: bold;}
+
+.content1button {
+	display: block;
+	background-color:transparent;
+	border: 3px solid #3498db;
+	width: 50%;
+	height:40px;
+	text-align: center;
+	position: relative;
+	margin: 3%;
+	font: 80% helvetica neue;
+	color:#3498db;
+	font-weight: bold;
+	text-decoration: none;}
+
+.content1button:hover {
+	border: 3px solid #6abdf5;
+	color:#6abdf5;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+
+
+/*===========================================CONTENT1 END==============*/
+
+/*===========================================FOOTER BEGIN==============*/
+.footerdiv {
+	display: block;
+	width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;}
+
+.footer {
+	display: block;
+	background-color: #34495e;
+	width: 100%;
+	height: 80px;
+	text-align: center;}
+
+.footer a {
+	color: #919fae;
+	text-decoration: none;
+	font: 100% open sans;
+	font-weight: bold;
+	float: center;
+	margin-top: 2.5%;
+	margin-right: 3%;
+	height: 4em;
+	line-height: 4.5em;}
+
+.footer1 {
+	background-color: #1f7cba;
+	height: 40px}
+
+.p01 {
+	float: left;
+	font: 80% open sans;
+	margin:1%;}
+
+.p02 {
+	float: right;
+	font: 80% open sans;
+	margin:1%;}
+
+.footer a:hover {
+	color: #ffffff;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+
+.footer2 {
+	background: rgba(255,255,255,0.5);
+	height: 50px;
+	text-align: center;}
+
+.footer2 a {
+	margin:1%;
+	text-decoration: none;
+	outline: none;
+	height: 4em;
+	line-height: 4.5em;}
+
+.footer2 a:hover {
+	-webkit-filter: drop-shadow(3px 5px 5px #000);
+	filter: drop-shadow(3px 5px 5px #000);} 
+
+/*===========================================FOOTER END==============*/
+}
+/*================================================ПЛАНШЕТНАЯ ВЕРСИЯ====*/
+@media (max-width: 1089px) {
+body {
+	background-image: url(background.png);
+	background-size: 100.0%}
+/*===============================================HEADER BEGIN==========*/
+.headerdiv {
+	display: block;
+	width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;}
+
+.header {
+	display: none; }
+
+.header1 {
+	float: left;
+	display: block;
+	background-color: #3498db;
+	text-align: center;
+	width:100%;
+	height: 25px;}
+
+.headersrc {
+	color: #ffffff;
+	text-decoration: none;
+	font: 80% open sans;
+	font-weight: bold;
+	margin-left: 5%;}
+
+.headersrc:hover {
+	color: #34495e;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+.headerdiv1 {
+	display: block;
+	background-color: #34495e;
+	width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;}
+
+.headerdiv1 img {
+	position: relative;
+	margin:2%;
+	width:30%;}
+
+.headersrc1 {
+	color: #919fae;
+	text-decoration: none;
+	font: 60% open sans;
+	font-weight: bold;
+	float: right;
+	margin-top: 4%;
+	margin-right: 3%;}
+
+.headersrc1:hover {
+	color: #ffffff;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+/*===========================================HEADER END==============*/
+
+/*===========================================CONTACT BEGIN==============*/
+.contactdiv {
+	display: block;
+	width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: rgba(255,255,255,0.8);}
+
+.cntcthdr {
+	width: 99.5%;
+	border: 3px solid #34495e;
+	text-align: center;}
+
+.cntcthdr p {
+	font: 150% open sans;
+	color: #34495e;}
+
+.contactheader {
+	display: block;
+	width: 100%;
+	text-align: center;}
+
+.contactheader p {
+	color: #34495e;
+	font: 130% open sans;}
+
+.contacttext {
+	display: block;
+	width: 100%;}
+
+.contacttextheader1 {
+	font: 120% open sans;
+	color: #34495e;
+	margin-left: 5%;}
+
+.contacttext1 {
+	font: 100% open sans;
+	color: #34495e;
+	margin-left: 5%;}
+
+.contacttext:last-child {
+	padding-bottom: 3%;}
+/*===========================================CONTACT END==============*/
+
+/*===========================================CONTENT1 BEGIN==============*/
+.content1div {
+	display: block;
+	height: 200px;
+	width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: rgba(255,255,255,0.6);}
+
+.content11 {
+	display: inline-block;
+	float: left;
+	width: 40%;
+	height: 200px;
+	background: rgba(255,255,255,0.6);}
+
+.content1head {
+	height: 35px;
+	background-color: #3498db;
+	text-align: center;
+	color:  #ffffff;
+	font: 140% open sans;
+	font-weight: bold;}
+
+.content1img {
+	display: block;
+	width: 100%;
+	height: 330px;}
+
+.content1img img {
+	display: block;
+	width: 100%;
+	height: 50%;}
+
+.content12 {
+	display:inline-block;
+	float: right;
+	width: 60%;
+	height: 200px;
+	background: rgba(255,255,255,0.6);}
+
+.content1head2 {
+	margin-top: 3%;
+	margin-left: 8%;
+	margin-right: 20%;
+	color: black;
+	font: 120% open sans;
+	font-weight: bold;}
+
+.content1text {
+	margin-left: 8%;
+	margin-top: -4%;
+	font: 80% open sans;
+	font-weight: italic;
+	color: #3498db;}
+
+.content1price {
+	margin-top: 6%;
+	margin-left: 8%;
+	color: black;
+	font: 170% open sans;
+	font-weight: bold;}
+
+.content1button {
+	display: block;
+	background-color:transparent;
+	border: 3px solid #3498db;
+	width: 50%;
+	height:40px;
+	text-align: center;
+	position: relative;
+	margin: 3%;
+	font: 70% helvetica neue;
+	color:#3498db;
+	font-weight: bold;
+	text-decoration: none;}
+
+.content1button:hover {
+	border: 3px solid #6abdf5;
+	color:#6abdf5;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+
+
+/*===========================================CONTENT1 END==============*/
+
+/*===========================================FOOTER BEGIN==============*/
+.footerdiv {
+	display: block;
+	width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;}
+
+.footer {
+	display: block;
+	background-color: #34495e;
+	width: 100%;
+	height: 50px;
+	text-align: center;}
+
+.footer a {
+	color: #919fae;
+	text-decoration: none;
+	font: 65% open sans;
+	font-weight: bold;
+	float: center;
+	margin-top: 2.5%;
+	margin-right: 3%;
+	height: 4em;
+	line-height: 4.5em;}
+
+.footer1 {
+	background-color: #1f7cba;
+	height: 35px}
+
+.p01 {
+	float: left;
+	font: 80% open sans;
+	margin:1%;}
+
+.p02 {
+	float: right;
+	font: 80% open sans;
+	margin:1%;}
+
+.footer a:hover {
+	color: #ffffff;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+
+.footer2 {
+	background: rgba(255,255,255,0.5);
+	height: 50px;
+	text-align: center;}
+
+.footer2 a {
+	margin:1%;
+	text-decoration: none;
+	outline: none;
+	height: 4em;
+	line-height: 4.5em;}
+
+.footer2 a:hover {
+	-webkit-filter: drop-shadow(3px 5px 5px #000);
+	filter: drop-shadow(3px 5px 5px #000);} 
+
+/*===========================================FOOTER END==============*/
+}
+/*==========================================================МОБИЛЬНАЯ ВЕРСИЯ=======*/
+@media (max-width: 600px) {
+
+body {
+	background-image: url(background.png);
+	background-size: 100.0%}
+/*===============================================HEADER BEGIN==========*/
+.headerdiv {
+	display: block;
+	width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;}
+
+.header {
+	display: none;}
+
+.header1 {
+	float: left;
+	display: block;
+	background-color: #3498db;
+	text-align: center;
+	width:100%;
+	height: 25px;}
+
+.headersrc {
+	color: #ffffff;
+	text-decoration: none;
+	font: 80% open sans;
+	font-weight: bold;
+	margin-left: 5%;}
+
+.headersrc:hover {
+	color: #34495e;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+.headerdiv1 {
+	display: block;
+	background-color: #34495e;
+	width: 95%;
+	height: 60px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;}
+
+.headerimage {display: none;}
+
+.headersrc1 {
+	color: #919fae;
+	text-decoration: none;
+	font: 52% open sans;
+	font-weight: bold;
+	position: relative;
+	left: -2%;
+	margin-top: 2%;
+	margin-left: 3%;}
+
+.headersrc1:hover {
+	color: #ffffff;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+/*===========================================HEADER END==============*/
+
+/*===========================================CONTACT BEGIN==============*/
+.contactdiv {
+	display: block;
+	width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    background: rgba(255,255,255,0.8);}
+
+.cntcthdr {
+	width: 98.8%;
+	border: 3px solid #34495e;
+	text-align: center;}
+
+.cntcthdr p {
+	font: 120% open sans;
+	color: #34495e;}
+
+.contactheader {
+	display: block;
+	width: 100%;
+	text-align: center;}
+
+.contactheader p {
+	color: #34495e;
+	font: 100% open sans;}
+
+.contacttext {
+	display: block;
+	width: 100%;}
+
+.contacttextheader1 {
+	font: 90% open sans;
+	color: #34495e;
+	margin-left: 5%;}
+
+.contacttext1 {
+	font: 80% open sans;
+	color: #34495e;
+	margin-left: 5%;}
+
+.contacttext:last-child {
+	padding-bottom: 3%;}
+/*===========================================CONTACT END==============*/
+
+/*===========================================CONTENT1 BEGIN==============*/
+.content1div {
+	display: block;
+	width: 95%;
+	height: 400px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    background: rgba(255,255,255,0.6);}
+
+.content11 {
+	display: block;
+	float: left;
+	width: 100%;
+	
+	background: rgba(255,255,255,0.6);}
+
+.content1head {
+	height: 30px;
+	background-color: #3498db;
+	text-align: center;
+	color:  #ffffff;
+	font: 100% open sans;
+	font-weight: bold;}
+
+.content1img {
+	display: block;
+	width: 100%;
+	height: 200px; }
+
+.content1img img {
+	display: block;
+	width: 100%;
+	height: 90%;}
+
+.content12 {
+	display:block;
+	float: right;
+	width: 100%;
+	height: 200px;
+	background: rgba(255,255,255,0.6);}
+
+.content1head2 {
+	margin-top: 6%;
+	margin-left: 8%;
+	margin-right: 20%;
+	color: black;
+	font: 100% open sans;
+	font-weight: bold;}
+
+.content1text {
+	margin-left: 8%;
+	margin-top: -4%;
+	font: 70% open sans;
+	font-weight: italic;
+	color: #3498db;}
+
+.content1price {
+	margin-top: 7%;
+	margin-left: 8%;
+	color: black;
+	font: 130% open sans;
+	font-weight: bold;}
+
+.content1button {
+	display: block;
+	background-color:transparent;
+	border: 3px solid #3498db;
+	width: 50%;
+	height:40px;
+	text-align: center;
+	position: relative;
+	margin: 3%;
+	margin-left: 25%;
+	font: 70% helvetica neue;
+	color:#3498db;
+	font-weight: bold;
+	text-decoration: none;}
+
+.content1button:hover {
+	border: 3px solid #6abdf5;
+	color:#6abdf5;
+	box-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+
+
+/*===========================================CONTENT1 END==============*/
+
+/*===========================================FOOTER BEGIN==============*/
+.footerdiv {
+	display: block;
+	width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;}
+
+.footer {
+	display: block;
+	background-color: #34495e;
+	width: 100%;
+	height: 80px;
+	text-align: center;}
+
+.footer a {
+	color: #919fae;
+	text-decoration: none;
+	font: 80% open sans;
+	font-weight: bold;
+	float: center;
+	margin-top: 2.5%;
+	margin-right: 3%;
+	line-height: 2em;}
+
+.footer1 {display: none;}
+
+.p01 {display: none;}
+
+.p02 {display: none;}
+
+.footer a:hover {
+	color: #ffffff;
+	text-shadow: 5px 5px 10px rgba(0,0,0,0.3);}
+
+
+.footer2 {
+	background: rgba(255,255,255,0.5);
+	height: 50px;
+	text-align: center;}
+
+.footer2 a {
+	margin:1%;
+	text-decoration: none;
+	outline: none;
+	height: 4em;
+	line-height: 4.5em;}
+
+.footer2 a:hover {
+	-webkit-filter: drop-shadow(3px 5px 5px #000);
+	filter: drop-shadow(3px 5px 5px #000);} 
+
+/*===========================================FOOTER END==============*/
+}
